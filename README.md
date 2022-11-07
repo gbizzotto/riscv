@@ -12,3 +12,7 @@
 - minimalistic assembler
 - minimalistic OS
 - emulator 
+
+![RISC-V](screenshots/riscv.png)
+![RISC-V](screenshots/decoder.png)
+![RISC-V](screenshots/jmp_selector.png)
