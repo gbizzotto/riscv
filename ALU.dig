@@ -1220,6 +1220,11 @@
       </elementAttributes>
       <pos x="-20" y="-900"/>
     </visualElement>
+    <visualElement>
+      <elementName>Ground</elementName>
+      <elementAttributes/>
+      <pos x="340" y="-2460"/>
+    </visualElement>
   </visualElements>
   <wires>
     <wire>
@@ -1735,7 +1740,7 @@
       <p2 x="360" y="-1180"/>
     </wire>
     <wire>
-      <p1 x="-20" y="-2460"/>
+      <p1 x="340" y="-2460"/>
       <p2 x="360" y="-2460"/>
     </wire>
     <wire>
