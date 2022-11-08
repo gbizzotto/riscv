@@ -139,8 +139,8 @@
         </entry>
         <entry>
           <string>Data</string>
-          <data>93,0,80,3e,23,20,10,0,13,81,10,0,93,1,20,0,13,2,50,3e,33,1,31
-,40,e3,1e,41,fe,23,22,20</data>
+          <data>b7,10,0,0,13,d1,90,0,b3,d0,20,0,63,8,1,0,b3,81,30,0,13,1,f1,ff
+,6f,f0,5f,ff,17,2,0,0,23,18,32</data>
         </entry>
       </elementAttributes>
       <pos x="-340" y="680"/>
@@ -355,6 +355,16 @@
       </elementAttributes>
       <pos x="-120" y="400"/>
     </visualElement>
+    <visualElement>
+      <elementName>Break</elementName>
+      <elementAttributes>
+        <entry>
+          <string>rotation</string>
+          <rotation rotation="2"/>
+        </entry>
+      </elementAttributes>
+      <pos x="-120" y="320"/>
+    </visualElement>
   </visualElements>
   <wires>
     <wire>
@@ -372,6 +382,10 @@
     <wire>
       <p1 x="160" y="320"/>
       <p2 x="240" y="320"/>
+    </wire>
+    <wire>
+      <p1 x="-120" y="320"/>
+      <p2 x="0" y="320"/>
     </wire>
     <wire>
       <p1 x="200" y="0"/>
@@ -756,6 +770,10 @@
     <wire>
       <p1 x="-20" y="380"/>
       <p2 x="20" y="380"/>
+    </wire>
+    <wire>
+      <p1 x="0" y="320"/>
+      <p2 x="0" y="420"/>
     </wire>
     <wire>
       <p1 x="0" y="420"/>
