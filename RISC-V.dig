@@ -73,12 +73,22 @@
     </visualElement>
     <visualElement>
       <elementName>decoder.dig</elementName>
-      <elementAttributes/>
+      <elementAttributes>
+        <entry>
+          <string>Label</string>
+          <string>2 steps</string>
+        </entry>
+      </elementAttributes>
       <pos x="-180" y="460"/>
     </visualElement>
     <visualElement>
       <elementName>PC.dig</elementName>
-      <elementAttributes/>
+      <elementAttributes>
+        <entry>
+          <string>Label</string>
+          <string>2 steps</string>
+        </entry>
+      </elementAttributes>
       <pos x="-620" y="460"/>
     </visualElement>
     <visualElement>
@@ -166,7 +176,12 @@
     </visualElement>
     <visualElement>
       <elementName>registers.dig</elementName>
-      <elementAttributes/>
+      <elementAttributes>
+        <entry>
+          <string>Label</string>
+          <string>1-2 steps</string>
+        </entry>
+      </elementAttributes>
       <pos x="260" y="540"/>
     </visualElement>
     <visualElement>
@@ -199,7 +214,12 @@
     </visualElement>
     <visualElement>
       <elementName>jmp_selector.dig</elementName>
-      <elementAttributes/>
+      <elementAttributes>
+        <entry>
+          <string>Label</string>
+          <string>1-6 steps</string>
+        </entry>
+      </elementAttributes>
       <pos x="260" y="780"/>
     </visualElement>
     <visualElement>
@@ -222,7 +242,12 @@
     </visualElement>
     <visualElement>
       <elementName>ALU.dig</elementName>
-      <elementAttributes/>
+      <elementAttributes>
+        <entry>
+          <string>Label</string>
+          <string>4 steps</string>
+        </entry>
+      </elementAttributes>
       <pos x="240" y="200"/>
     </visualElement>
     <visualElement>
@@ -259,7 +284,12 @@
     </visualElement>
     <visualElement>
       <elementName>LSU.dig</elementName>
-      <elementAttributes/>
+      <elementAttributes>
+        <entry>
+          <string>Label</string>
+          <string>7-13 steps?</string>
+        </entry>
+      </elementAttributes>
       <pos x="260" y="0"/>
     </visualElement>
     <visualElement>
@@ -370,7 +400,12 @@
     </visualElement>
     <visualElement>
       <elementName>fetcher.dig</elementName>
-      <elementAttributes/>
+      <elementAttributes>
+        <entry>
+          <string>Label</string>
+          <string>9 steps</string>
+        </entry>
+      </elementAttributes>
       <pos x="-420" y="460"/>
     </visualElement>
   </visualElements>
